@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;700&display=swap');
+
+:root{
+    --clr-body-bg: hsl(27, 66%, 92%);
+    --clr-header-bg: hsl(10, 79%, 65%);
+    --clr-main-bg: hsl(33, 100%, 98%);
+
+    --clr-red-dark: hsl(10, 79%, 65%);
+    --clr-red-light: hsl(10, 75%, 72%);
+    --clr-cyan-dark: hsl(186, 34%, 60%);
+    --clr-cyan-light: hsl(186, 56%, 75%);
+    --clr-brown-dark: hsl(25, 47%, 15%);
+    --clr-brown-light: hsl(28, 10%, 53%);
+}
+
+body{
+    font-family: 'DM Sans', sans-serif;
+    /* - Weights: 400, 700 */
+}
